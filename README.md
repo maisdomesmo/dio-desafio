@@ -1,2 +1,2 @@
 # Desafio de projeto da DIO
-Desafio de projeto sobre Git/Github
+Desafio de criação de repositorio no Git/GitHub, para treinamento e aprendizado sobre a plataforma.
