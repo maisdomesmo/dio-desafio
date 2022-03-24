@@ -1,3 +1,3 @@
-#Projeto pessoal 
+Projeto pessoal 
 
-criação do jogo kolision usando a linguagem lua
+Criação do jogo kolision usando a linguagem de programação lua.
